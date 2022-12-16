@@ -5,15 +5,15 @@
   "platforms": {
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTU9vUjdoQXl6aFZ4Z1JvaFYzYjV1K1F1SDh4aEFGaU1tR2QydVJ5TjlHalA1SUV2a1FyYkcyUnNwdUZuMCt2WjM1UkI1WjdCQnhpUXpaRHAzbjZNcnVrS21meFNBMkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxMjI3MjgwCWZpbGU6bHAtd2F0Y2hlci5hcHAudGFyLmd6ClpsSnVIUjFjSTVEeENJYUhQTTZVWGhIWDc5SG1rNmJlK3RVRnRlbHY0anlQUXR1ZTYyZ05aVnJlQmxBNmE2MGhKUXExdytzUDJHanQrZFY5LzlzU0FnPT0K",
-      "url": "https://github.com/pMatt1988/lp-watcher/releases/download/v0.3.2/lp-watcher.app.tar.gz"
+      "url": "https://github.com/pMatt1988/lp-watcher-releases/releases/download/v0.3.2/lp-watcher.app.tar.gz"
     },
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTU9vUjdoQXl6aFZ4Z1JvaFYzYjV1K1F1SDh4aEFGaU1tR2QydVJ5TjlHalA1SUV2a1FyYkcyUnNwdUZuMCt2WjM1UkI1WjdCQnhpUXpaRHAzbjZNcnVrS21meFNBMkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxMjI3MjgwCWZpbGU6bHAtd2F0Y2hlci5hcHAudGFyLmd6ClpsSnVIUjFjSTVEeENJYUhQTTZVWGhIWDc5SG1rNmJlK3RVRnRlbHY0anlQUXR1ZTYyZ05aVnJlQmxBNmE2MGhKUXExdytzUDJHanQrZFY5LzlzU0FnPT0K",
-      "url": "https://github.com/pMatt1988/lp-watcher/releases/download/v0.3.2/lp-watcher.app.tar.gz"
+      "url": "https://github.com/pMatt1988/lp-watcher-releases/releases/download/v0.3.2/lp-watcher.app.tar.gz"
     },
     "darwin-universal": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTU9vUjdoQXl6aFZ4Z1JvaFYzYjV1K1F1SDh4aEFGaU1tR2QydVJ5TjlHalA1SUV2a1FyYkcyUnNwdUZuMCt2WjM1UkI1WjdCQnhpUXpaRHAzbjZNcnVrS21meFNBMkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxMjI3MjgwCWZpbGU6bHAtd2F0Y2hlci5hcHAudGFyLmd6ClpsSnVIUjFjSTVEeENJYUhQTTZVWGhIWDc5SG1rNmJlK3RVRnRlbHY0anlQUXR1ZTYyZ05aVnJlQmxBNmE2MGhKUXExdytzUDJHanQrZFY5LzlzU0FnPT0K",
-      "url": "https://github.com/pMatt1988/lp-watcher/releases/download/v0.3.2/lp-watcher.app.tar.gz"
+      "url": "https://github.com/pMatt1988/lp-watcher-releases/releases/download/v0.3.2/lp-watcher.app.tar.gz"
     }
   }
 }
