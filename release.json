@@ -1,17 +1,17 @@
 {
-  "version": "v0.3.4",
+  "version": "v0.3.5",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTU9vUjdoQXl6aFZpd3VLSE82L0dKb09YbnBpM1IyRDU2c04yUGErQmxJOSsyekNEVm1jWFpickRiRVdKU01zVm5zUmhmS2FHcmpYSC9DVXlmYW1NVXI1T2ZwalAyaEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxMjQ3MDgzCWZpbGU6bHAtd2F0Y2hlci5hcHAudGFyLmd6Ck1iNHIxRXk3cXNiTHNuSkRNczd6YUxZbEpjSmlwTWFKTDY1OFpGSUxPMkg1RzZmK0Joa0dXemIwL1gwTFdoRmtiOHBPdHdia214MktYUTZPSUdSS0N3PT0K",
-      "url": "https://github.com/pMatt1988/lp-watcher-releases/releases/download/v0.3.4/lp-watcher.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTU9vUjdoQXl6aGFIcTB2eGs0VUlSWUxuU2F0b0FHcTJobzFuY3VXTmU5dGdZc3FKb2IzTVl0ckF5K2Uva2ZDN3VxZ0JYZFAwZE5XV0tyanlpcFFhYjF5OVJ0eGlyN1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxMjQ4MDczCWZpbGU6bHAtd2F0Y2hlci5hcHAudGFyLmd6Cm8zN0k5K3kzdFpzUFF5cjAxbG1zWEwwaHpmczRBdlE3NFBJNnNWOWIzRzkyNDhUTlZmNWNFNGdhaklaelZjaTYydzhPNU04RXI5Yis1eGdWUy9SVEFRPT0K",
+      "url": "https://github.com/pMatt1988/lp-watcher-releases/releases/download/v0.3.5/lp-watcher.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTU9vUjdoQXl6aFZpd3VLSE82L0dKb09YbnBpM1IyRDU2c04yUGErQmxJOSsyekNEVm1jWFpickRiRVdKU01zVm5zUmhmS2FHcmpYSC9DVXlmYW1NVXI1T2ZwalAyaEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxMjQ3MDgzCWZpbGU6bHAtd2F0Y2hlci5hcHAudGFyLmd6Ck1iNHIxRXk3cXNiTHNuSkRNczd6YUxZbEpjSmlwTWFKTDY1OFpGSUxPMkg1RzZmK0Joa0dXemIwL1gwTFdoRmtiOHBPdHdia214MktYUTZPSUdSS0N3PT0K",
-      "url": "https://github.com/pMatt1988/lp-watcher-releases/releases/download/v0.3.4/lp-watcher.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTU9vUjdoQXl6aGFIcTB2eGs0VUlSWUxuU2F0b0FHcTJobzFuY3VXTmU5dGdZc3FKb2IzTVl0ckF5K2Uva2ZDN3VxZ0JYZFAwZE5XV0tyanlpcFFhYjF5OVJ0eGlyN1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxMjQ4MDczCWZpbGU6bHAtd2F0Y2hlci5hcHAudGFyLmd6Cm8zN0k5K3kzdFpzUFF5cjAxbG1zWEwwaHpmczRBdlE3NFBJNnNWOWIzRzkyNDhUTlZmNWNFNGdhaklaelZjaTYydzhPNU04RXI5Yis1eGdWUy9SVEFRPT0K",
+      "url": "https://github.com/pMatt1988/lp-watcher-releases/releases/download/v0.3.5/lp-watcher.app.tar.gz"
     },
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTU9vUjdoQXl6aFZpd3VLSE82L0dKb09YbnBpM1IyRDU2c04yUGErQmxJOSsyekNEVm1jWFpickRiRVdKU01zVm5zUmhmS2FHcmpYSC9DVXlmYW1NVXI1T2ZwalAyaEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxMjQ3MDgzCWZpbGU6bHAtd2F0Y2hlci5hcHAudGFyLmd6Ck1iNHIxRXk3cXNiTHNuSkRNczd6YUxZbEpjSmlwTWFKTDY1OFpGSUxPMkg1RzZmK0Joa0dXemIwL1gwTFdoRmtiOHBPdHdia214MktYUTZPSUdSS0N3PT0K",
-      "url": "https://github.com/pMatt1988/lp-watcher-releases/releases/download/v0.3.4/lp-watcher.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTU9vUjdoQXl6aGFIcTB2eGs0VUlSWUxuU2F0b0FHcTJobzFuY3VXTmU5dGdZc3FKb2IzTVl0ckF5K2Uva2ZDN3VxZ0JYZFAwZE5XV0tyanlpcFFhYjF5OVJ0eGlyN1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxMjQ4MDczCWZpbGU6bHAtd2F0Y2hlci5hcHAudGFyLmd6Cm8zN0k5K3kzdFpzUFF5cjAxbG1zWEwwaHpmczRBdlE3NFBJNnNWOWIzRzkyNDhUTlZmNWNFNGdhaklaelZjaTYydzhPNU04RXI5Yis1eGdWUy9SVEFRPT0K",
+      "url": "https://github.com/pMatt1988/lp-watcher-releases/releases/download/v0.3.5/lp-watcher.app.tar.gz"
     }
   }
 }
